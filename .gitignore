@@ -1,0 +1,9 @@
+# Generated log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*~
