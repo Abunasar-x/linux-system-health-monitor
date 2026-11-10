@@ -47,7 +47,7 @@ linux-system-health-monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/linux-system-health-monitor.git
+git clone https://github.com/Abunasar-x/linux-system-health-monitor.git
 ```
 
 Navigate to the project directory:
